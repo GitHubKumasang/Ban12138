@@ -12,7 +12,7 @@
 =》还没写，我懒《
 
 ◆【LSPosed】刷入安装教程
-=》https://docs.qq.com/doc/DSmlPR3pWakhSUHpQ《  
+=》[点我进入教程](https://github.com/GitHubKumasang/-LSPosed-/blob/main/README.md)《  
 
 ◆【应用隐藏列表模块】刷入教程及全绿教程0
 =》https://docs.qq.com/doc/DSmtsZ2h4ZFREdEdE《
